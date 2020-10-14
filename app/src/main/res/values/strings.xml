@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CovidStatsCheck</string>
+    <string name="api_url">https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/LaboratoryLocalTimeSeriesHistoricView/FeatureServer/0/query?where=1%3D1&amp;outFields=*&amp;outSR=4326&amp;f=json</string>
+</resources>
